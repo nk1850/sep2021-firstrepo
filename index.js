@@ -1,4 +1,4 @@
-let person ={
+const person ={
     fname: 'john',
     lname: 'Smith',
     age : 22,
